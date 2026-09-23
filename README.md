@@ -37,10 +37,19 @@ cd /Users/gecko/locoprowrestling/LoCoProWebsites/sponsors
 python3 -m http.server 8118 --bind 127.0.0.1 --directory _site
 ```
 
-GitHub Pages workflow follows the existing LoCo static-site pattern. Keep private
+GitHub Pages publishes from `main` using the included Actions workflow.
+Repository: https://github.com/locoprowrestling/sponsors
+Public site: https://sponsors.locopro.pw/
+
+Porkbun DNS uses an `ALIAS` record named `sponsors`, pointing to
+`locoprowrestling.github.io`, TTL 600. The Pages custom domain must match `CNAME`;
+HTTPS enforcement is enabled after certificate issuance. Keep private
 correspondence, API readbacks, drafts, and credentials outside this repository.
-Publish only after Aaron approves the reviewable site. Create only the sponsors
-DNS record; never change sibling subdomains or mail records.
+Change only the sponsors record, never sibling subdomains or mail records.
+
+For a content rollback, revert the relevant commit and redeploy through the same
+workflow. Before removing the site or its DNS record, obtain approval for that
+live change and preserve the record and Pages settings.
 
 ## Verification
 

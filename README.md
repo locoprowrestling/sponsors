@@ -9,6 +9,12 @@ Google Slides partnership deck and the original sponsor sheet sent September 12,
 - $500 per show comes from the original sponsor sheet.
 - Three months of weekly recognition and the six benefits follow the September
   20 Google Slides deck and the sponsor partnership video.
+- Aaron confirmed the campaign window on September 22: October 24, 2026 through
+  the January 24, 2027 show. All three months lead into that show. The start and
+  end dates are fixed, rather than calculated from a sponsor's signup date.
+- The hero, package, weekly benefits, video introduction, download section, and
+  contact copy use that window. Source slides, videos, and original PDFs retain
+  their original wording; the website's dated campaign terms govern this offer.
 - Source deck: https://docs.google.com/presentation/d/1PtCi8hnfREKsA5JTmnx5_9fGqGCpkZD5oXKbWQRa-0M/edit
 - Sizzle reel: https://www.youtube.com/watch?v=h0koPU3gucA
 - Partnership overview: https://www.youtube.com/watch?v=66EDY1ndmo8

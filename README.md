@@ -20,8 +20,14 @@ Google Slides partnership deck and the original sponsor sheet sent September 12,
 - Partnership overview: https://www.youtube.com/watch?v=66EDY1ndmo8
 - Both videos were read back as Unlisted and embedding disabled on September 22,
   2026. The page uses direct YouTube links and leaves those settings unchanged.
-- The original PDF is preserved byte-for-byte. It contains its original
-  September 12 wording, including the historical video-view claim. No audience
+- Sponsorship contact is `sponsors@locoprowrestling.com` (Aaron, September 24).
+  The native deck, downloadable PDFs, slide 6 image, and site contact links
+  use this address. Existing YouTube video renders still require replacement;
+  their Remotion sources have been updated, but no video was re-uploaded.
+- The September 12 PDF original is preserved byte-for-byte under the excluded
+  `source-assets/contact-update-2026-09-24/` directory. The public PDF changes
+  only the sponsorship email, its fit, and adds its mailto link. It retains the
+  September 12 wording otherwise, including the historical video-view claim. No audience
   metric from that document is presented as a current site metric.
 - The deck is exported as a local PDF and six web images. Its Drive sharing
   settings are unchanged, and visitors do not need Drive access.
